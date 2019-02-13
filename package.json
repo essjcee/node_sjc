@@ -18,5 +18,10 @@
   "homepage": "https://github.com/essjcee/node_sjc#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0"
   }
 }
